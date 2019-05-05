@@ -3,13 +3,13 @@
 
 **İÇİNDEKİLER**
 
-**KAYNAK KODDAN VERİ ELDE ETME**
+**KAYNAK KODDAN VERİ ELDE ETME (C#, Json, HtmlAgilityPack)**
 
-**SUBDOMAIN TESPİT ETME**
+**SUBDOMAIN TESPİT ETME (C#, HtmlAgilityPack)**
 
-**BOT KULLANARAK WEB MADENCİLİĞİ**
+**BOT KULLANARAK WEB MADENCİLİĞİ (C#, Sqlite, Selenium)**
 
-**BİRFATURA API TESTİ**
+**BİRFATURA API TESTİ (C#, Rest, Json, ITextSharp)**
 
 **KAYNAKLAR**
 
