@@ -1,4 +1,4 @@
-#### 20 iş günü süren BirFatura stajımda, bana verilen görevler doğrultusunda kodladığım uygulamalar hakkında bilgilerin yer aldığı staj raporu (2018):
+#### 20 iş günü süren BirFatura stajımda, bana verilen görevler doğrultusunda kodladığım uygulamalar hakkında bilgilerin yer aldığı staj raporu (2018)
 ----
 
 **İÇİNDEKİLER**
